@@ -1,11 +1,3 @@
-let my_bool = true;
-
-if my_bool {
-  println!("True.");
-} else {
-  println!("False.");
-}
-
 let int = 0;
 
 if int > 0 {
